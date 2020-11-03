@@ -1,0 +1,266 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <link rel="icon" href="https://cedarslandshoes.com/expo/photo/ExpoLogo.jpg">
+
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+		<link rel="stylesheet" href="css/material.min.css">
+				<link rel="stylesheet" href="css/mysheet.css">
+
+<script src="js/material.min.js"></script>
+<script src="js/myscripts.js"></script>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+     <script>window['LSID'] = 0; </script>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Demo of Display Browser Web Push Notification in web application</title>
+<link href="https://demo.discussdesk.com/css/style.css" rel="stylesheet" />
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-115871796-1" type="68de99935bba30f35cc70882-text/javascript"></script>
+<script type="68de99935bba30f35cc70882-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-115871796-1');
+</script>
+</head>
+<body>
+<div class="wrapper">
+<div class="main__Header">
+<header>
+
+</header>
+<nav>
+<input type="checkbox">
+<span></span>
+<span></span>
+<span></span>
+
+</nav>
+</div>
+<div class="main_width">
+<div class="mainContainer">
+<section class="listing_Section"><script type="68de99935bba30f35cc70882-text/javascript">
+
+var articles = [
+["10 JQuery Plugins for Creating Dynamic Layouts","https://www.discussdesk.com/10-jquery-plugins-for-creating-dynamic-layouts.htm","10 JQuery Plugins for Creating Dynamic Layouts",],
+["Multiple image upload and resize using AJAX","https://www.discussdesk.com/multiple-image-upload-and-resize-using-ajax.htm","Multiple image upload and resize using AJAX"],
+["Server Side Filtering using jQuery Ajax PHP and MySQL","https://www.discussdesk.com/server-side-filtering-using-jquery-ajax-php-and-mysql.htm","Server Side Filtering using jQuery Ajax PHP and MySQL"],
+];
+
+/*
+setTimeout(function(){ 
+var outputParameter = Math.floor((Math.random() * 10) + 1);
+/*var setTitle=articles[outputParameter][0];
+var setDescription=articles[outputParameter][2];
+var setUrl=articles[outputParameter][1];
+sendNotificationToBrowser("New Order!","Order id:"+LSID,"https://cedarslandshoes.com/expo/Fulfillment/Fulfillment.php");
+}, 300000);
+
+*/
+
+document.addEventListener('DOMContentLoaded', function () 
+{
+    
+if (Notification.permission !== "granted")
+{
+Notification.requestPermission();
+}
+
+document.querySelector("#sendNotifyMessage").addEventListener("click", function(e)
+{
+    /*
+var outputParameter = Math.floor((Math.random() * 10) + 1);
+var setTitle=articles[outputParameter][0];
+var setDescription=articles[outputParameter][2];
+var setUrl=articles[outputParameter][1];*/
+sendNotificationToBrowser("New Order!","Order id:"+LSID,"https://cedarslandshoes.com/expo/Fulfillment/Fulfillment.php");
+e.preventDefault();
+});
+
+});
+
+function sendNotificationToBrowser(setTitle,setDescription,setUrl) 
+{
+if (!Notification) {
+console.log('Desktop notification is currently not available in your browser.'); 
+return;
+}
+if (Notification.permission !== "granted")
+{
+Notification.requestPermission();
+}
+else {
+var notification = new Notification(setTitle, {
+icon:'https://cedarslandshoes.com/expo/photo/ExpoLogo.jpg',
+body: setDescription,
+});
+
+// After clicking notification open that target url.
+notification.onclick = function () {
+window.open(setUrl);      
+};
+
+// This is a Callback function for notification closed.
+notification.onclose = function () {
+console.log('Notification closed');
+};
+
+}
+}
+
+
+</script>
+<style type="text/css">
+.hover{background-color: #cc0000}
+ .mainDiv{ margin:0px auto; width: 700px} 
+.button {
+ background: #4485fe none repeat scroll 0 0;
+    border-radius: 0;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    height: 33px;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+	-moz-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857;
+    margin-bottom: 0;
+    padding: 6px 12px;
+    text-align: center;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.authorBlock{border-top:1px solid #cc0000;}
+</style>
+</head>
+<body>
+<div class="mainDiv">
+<h1>Test For Notification</h1>
+<div>@ Rami ShO.ok</div>
+<a href="javascript:void(0);" id="sendNotifyMessage" class="button">Last Checked!</a>
+</div>
+</section>
+</div>
+</div>
+<footer id="footer">
+<div class="main_width">
+<div class="ftr_inner">
+    		 <div id="demo-toast-example" class="mdl-js-snackbar mdl-snackbar">
+  <div class="mdl-snackbar__text"></div>
+  <button class="mdl-snackbar__action" type="button"></button>
+</div>
+<div color="red"> 
+helllo audio
+    <audio src="./assets/ios_notification.mp3" id="AD"  > </audio>
+</div>
+		
+<div class="disclaimer">@ Rami Shook &copy; 79103686.</div>
+</div>
+</div>
+</footer>
+</div>
+<div id="sticky-bar">
+
+
+</div>
+<style>
+#sticky-bar {
+    position: fixed;
+    bottom: 0;
+    display: block;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    border-top: 1px solid#ddd;
+    z-index: 99999;
+    height: 90px;
+    line-height: 38px;
+	background: none repeat scroll 0 0 rgb(0 0 0 / 0%);
+}
+#sticky-bar .orange {
+	padding: 0px 20px;
+    border-radius: 5px;
+    margin-left: 50px;
+    background: #f45440;
+    color: #fff;
+}
+</style>
+
+<script type="68de99935bba30f35cc70882-text/javascript">
+
+function createCookie() {
+  document.getElementById('sticky-bar').style.display = 'none';
+}
+</script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="68de99935bba30f35cc70882-|49" defer="">
+    
+</script>
+</body>
+
+
+
+
+    <script language="javascript">
+    function chkx(){
+ 
+    let d = new Date();
+let timestamp = d.getTime();
+              var xmlhttp;
+if(window.XMLHttpRequest)
+xmlhttp = new XMLHttpRequest(); 
+
+
+xmlhttp.onreadystatechange = function(){
+if (xmlhttp.readyState == 4 & xmlhttp.status ==200)
+if (LSID != xmlhttp.responseText){ /// if theres new id in the php file
+    
+    
+    LSID = xmlhttp.responseText;
+    
+    
+    
+      (function(){
+    'use strict';
+    var snackbarContainer = document.querySelector('#demo-toast-example');
+    var data = {message: 'New Order! '+LSID,
+                      timeout: 6000
+    };
+    snackbarContainer.MaterialSnackbar.showSnackbar(data);
+  }());
+document.getElementById('AD').play();
+document.getElementById('sendNotifyMessage').click();
+
+    
+}
+}
+
+xmlhttp.open("GET","./LastChecked.php?ordr=1&timestamp="+timestamp,false);
+xmlhttp.send();   
+}
+
+
+window.setInterval(function(){
+chkx()}, 2000);
+    </script>
+
+
+
+</html>

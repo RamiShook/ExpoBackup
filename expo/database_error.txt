@@ -1,0 +1,43 @@
+In multiple_reserved table you can set default value for text:
+`multiple_reserve_status` text DEFAULT 'Pending',
+
+In reserved table you can set default value for text:
+`reverse_Status` text DEFAULT 'Pending',
+
+In workers table you can set default value for text:
+`worker_Type` text NOT NULL DEFAULT 'worker'
+
+
+ --
+-- Structure for view `clientview`
+--
+DROP TABLE IF EXISTS `clientview`;
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `clientview`  AS  select `products`.`product_id` AS `product_id`,`products`.`Product_Name` AS `Product_Name`,`products`.`product_Code` AS `product_Code`,`products`.`product_Size` AS `product_Size`,`products`.`product_Color` AS `product_Color`,`products`.`product_Quantity` AS `product_Quantity`,`products`.`product_Price` AS `product_Price`,`products`.`product_Note` AS `product_Note`,`products`.`product_Availability` AS `product_Availability` from `products` order by `products`.`Product_Name` desc ;
+--
+-- Indexes for table `clients`
+--
+ALTER TABLE `clients`
+  ADD PRIMARY KEY (`client_id`),
+  ADD UNIQUE KEY `client_Phone` (`client_Phone`) USING HASH;
+  --
+-- AUTO_INCREMENT for table `clients`
+--
+ALTER TABLE `clients`
+  MODIFY `client_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16;
+  
+  --
+-- Constraints for table `multiple_reserved`
+--
+ALTER TABLE `multiple_reserved`
+  ADD CONSTRAINT `clnt` FOREIGN KEY (`multiple_reserve_client_id`) REFERENCES `clients` (`client_id`),
+  ADD CONSTRAINT `wrkr` FOREIGN KEY (`multiple_reserve_worker_id`) REFERENCES `workers` (`worker_id`);
+  
+  --
+-- Constraints for table `reserved`
+--
+ALTER TABLE `reserved`
+  ADD CONSTRAINT `RESERVE_CLIENT` FOREIGN KEY (`reserve_client_id`) REFERENCES `clients` (`client_id`),
+  ADD CONSTRAINT `RESERVE_PRODUCT` FOREIGN KEY (`reserve_product_id`) REFERENCES `products` (`product_id`),
+  ADD CONSTRAINT `RESERVE_WORKER` FOREIGN KEY (`reserve_worker_id`) REFERENCES `workers` (`worker_id`);
+COMMIT;

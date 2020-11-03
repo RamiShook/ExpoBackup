@@ -1,0 +1,120 @@
+[28-Sep-2020 14:10:14 Europe/London] PHP Warning:  Use of undefined constant xlsx - assumed 'xlsx' (this will throw an Error in a future version of PHP) in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 106
+[28-Sep-2020 14:10:14 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php:41) in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 106
+[28-Sep-2020 14:13:15 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php:41) in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 107
+[28-Sep-2020 14:15:28 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php:41) in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 108
+[30-Sep-2020 07:51:52 America/Boise] PHP Parse error:  syntax error, unexpected '$Pnb' (T_VARIABLE), expecting ',' or ';' in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 88
+[30-Sep-2020 14:52:03 Europe/London] PHP Notice:  Array to string conversion in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 88
+[30-Sep-2020 14:53:02 Europe/London] PHP Notice:  Array to string conversion in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 88
+[30-Sep-2020 14:53:35 Europe/London] PHP Notice:  Array to string conversion in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 88
+[02-Oct-2020 14:30:25 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 88
+[02-Oct-2020 14:30:25 Europe/London] PHP Notice:  Undefined variable: date in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 99
+[02-Oct-2020 14:30:25 Europe/London] PHP Notice:  Undefined variable: month in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 99
+[02-Oct-2020 14:30:25 Europe/London] PHP Notice:  Undefined variable: year in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 99
+[02-Oct-2020 14:30:25 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 101
+[02-Oct-2020 14:30:25 Europe/London] PHP Notice:  Undefined variable: worker_Full_Name in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 101
+[02-Oct-2020 14:30:25 Europe/London] PHP Notice:  Undefined variable: clntnm in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 101
+[02-Oct-2020 14:30:25 Europe/London] PHP Notice:  Undefined variable: clntph in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my.php on line 101
+[06-Oct-2020 09:18:43 Europe/London] PHP Notice:  Undefined variable: objPHPExcel in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1.php on line 102
+[06-Oct-2020 09:18:43 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1.php:102
+Stack trace:
+#0 {main}
+  thrown in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1.php on line 102
+[06-Oct-2020 09:30:12 Europe/London] PHP Fatal error:  Uncaught Error: Undefined class constant 'PAPERSIZE_expo' in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1.php:102
+Stack trace:
+#0 {main}
+  thrown in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1.php on line 102
+[10-Oct-2020 18:00:37 Asia/Beirut] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 12
+[10-Oct-2020 18:01:41 Asia/Beirut] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 12
+[10-Oct-2020 18:03:02 Asia/Beirut] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 12
+[10-Oct-2020 16:03:02 Europe/London] PHP Notice:  Undefined variable: oldPriceCalc in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 105
+[10-Oct-2020 18:12:35 Asia/Beirut] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 12
+[10-Oct-2020 16:12:35 Europe/London] PHP Warning:  A non-numeric value encountered in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 105
+[10-Oct-2020 18:15:02 Asia/Beirut] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 12
+[10-Oct-2020 16:15:02 Europe/London] PHP Warning:  A non-numeric value encountered in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 105
+[10-Oct-2020 18:18:43 Asia/Beirut] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 12
+[10-Oct-2020 18:19:54 Asia/Beirut] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 12
+[12-Oct-2020 10:48:39 Europe/London] PHP Fatal error:  Uncaught Exception: Could not open TOPSPEEDBADAL.xlsx for reading! File does not exist. in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/PHPExcel/Reader/Excel2007.php:358
+Stack trace:
+#0 /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php(91): PHPExcel_Reader_Excel2007->load('TOPSPEEDBADAL.x...')
+#1 {main}
+  thrown in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/PHPExcel/Reader/Excel2007.php on line 358
+[12-Oct-2020 10:50:20 Europe/London] PHP Fatal error:  Uncaught Exception: Could not open TOPSPEEDBADAL.xlsx for reading! File does not exist. in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/PHPExcel/Reader/Excel2007.php:358
+Stack trace:
+#0 /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php(91): PHPExcel_Reader_Excel2007->load('TOPSPEEDBADAL.x...')
+#1 {main}
+  thrown in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/PHPExcel/Reader/Excel2007.php on line 358
+[12-Oct-2020 14:17:04 Europe/London] PHP Fatal error:  Uncaught Exception: Could not open TOPSPEEDBADAL.xlsx for reading! File does not exist. in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/PHPExcel/Reader/Excel2007.php:358
+Stack trace:
+#0 /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php(91): PHPExcel_Reader_Excel2007->load('TOPSPEEDBADAL.x...')
+#1 {main}
+  thrown in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/PHPExcel/Reader/Excel2007.php on line 358
+[12-Oct-2020 14:51:36 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 93
+[12-Oct-2020 14:51:36 Europe/London] PHP Notice:  Undefined variable: date in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 14:51:36 Europe/London] PHP Notice:  Undefined variable: month in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 14:51:36 Europe/London] PHP Notice:  Undefined variable: year in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 14:51:36 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:51:36 Europe/London] PHP Notice:  Undefined variable: worker_Full_Name in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:51:36 Europe/London] PHP Notice:  Undefined variable: client_FullName in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:51:36 Europe/London] PHP Notice:  Undefined variable: client_Address in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:51:36 Europe/London] PHP Notice:  Undefined variable: client_Phone in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:54:21 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 93
+[12-Oct-2020 14:54:21 Europe/London] PHP Notice:  Undefined variable: date in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 14:54:21 Europe/London] PHP Notice:  Undefined variable: month in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 14:54:21 Europe/London] PHP Notice:  Undefined variable: year in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 14:54:21 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:54:21 Europe/London] PHP Notice:  Undefined variable: worker_Full_Name in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:54:21 Europe/London] PHP Notice:  Undefined variable: client_FullName in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:54:21 Europe/London] PHP Notice:  Undefined variable: client_Address in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:54:21 Europe/London] PHP Notice:  Undefined variable: client_Phone in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:59:39 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 93
+[12-Oct-2020 14:59:39 Europe/London] PHP Notice:  Undefined variable: date in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 14:59:39 Europe/London] PHP Notice:  Undefined variable: month in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 14:59:39 Europe/London] PHP Notice:  Undefined variable: year in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 14:59:39 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:59:39 Europe/London] PHP Notice:  Undefined variable: worker_Full_Name in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:59:39 Europe/London] PHP Notice:  Undefined variable: client_FullName in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:59:39 Europe/London] PHP Notice:  Undefined variable: client_Address in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 14:59:39 Europe/London] PHP Notice:  Undefined variable: client_Phone in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 15:24:28 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 93
+[12-Oct-2020 15:24:28 Europe/London] PHP Notice:  Undefined variable: date in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 15:24:28 Europe/London] PHP Notice:  Undefined variable: month in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 15:24:28 Europe/London] PHP Notice:  Undefined variable: year in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 15:24:28 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 15:24:28 Europe/London] PHP Notice:  Undefined variable: worker_Full_Name in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 15:24:28 Europe/London] PHP Notice:  Undefined variable: client_FullName in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 15:24:28 Europe/London] PHP Notice:  Undefined variable: client_Address in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 15:24:28 Europe/London] PHP Notice:  Undefined variable: client_Phone in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 15:25:04 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 93
+[12-Oct-2020 15:25:04 Europe/London] PHP Notice:  Undefined variable: date in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 15:25:04 Europe/London] PHP Notice:  Undefined variable: month in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 15:25:04 Europe/London] PHP Notice:  Undefined variable: year in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 124
+[12-Oct-2020 15:25:04 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 15:25:04 Europe/London] PHP Notice:  Undefined variable: worker_Full_Name in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 15:25:04 Europe/London] PHP Notice:  Undefined variable: client_FullName in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 15:25:04 Europe/London] PHP Notice:  Undefined variable: client_Address in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 15:25:04 Europe/London] PHP Notice:  Undefined variable: client_Phone in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 126
+[12-Oct-2020 15:45:41 Europe/London] PHP Notice:  Undefined index: price in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/returnmy.php on line 106
+[21-Oct-2020 13:31:48 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 88
+[21-Oct-2020 13:31:48 Europe/London] PHP Notice:  Undefined variable: date in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 99
+[21-Oct-2020 13:31:48 Europe/London] PHP Notice:  Undefined variable: month in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 99
+[21-Oct-2020 13:31:48 Europe/London] PHP Notice:  Undefined variable: year in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 99
+[21-Oct-2020 13:31:48 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 101
+[21-Oct-2020 13:31:48 Europe/London] PHP Notice:  Undefined variable: worker_Full_Name in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 101
+[21-Oct-2020 13:31:48 Europe/London] PHP Notice:  Undefined variable: clntnm in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 101
+[21-Oct-2020 13:31:48 Europe/London] PHP Notice:  Undefined variable: clntph in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 101
+[23-Oct-2020 11:48:59 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 88
+[23-Oct-2020 11:48:59 Europe/London] PHP Notice:  Undefined variable: date in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 99
+[23-Oct-2020 11:48:59 Europe/London] PHP Notice:  Undefined variable: month in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 99
+[23-Oct-2020 11:48:59 Europe/London] PHP Notice:  Undefined variable: year in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 99
+[23-Oct-2020 11:48:59 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 101
+[23-Oct-2020 11:48:59 Europe/London] PHP Notice:  Undefined variable: worker_Full_Name in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 101
+[23-Oct-2020 11:48:59 Europe/London] PHP Notice:  Undefined variable: clntnm in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 101
+[23-Oct-2020 11:48:59 Europe/London] PHP Notice:  Undefined variable: clntph in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 101
+[23-Oct-2020 12:19:02 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 88
+[23-Oct-2020 12:19:02 Europe/London] PHP Notice:  Undefined variable: date in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 99
+[23-Oct-2020 12:19:02 Europe/London] PHP Notice:  Undefined variable: month in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 99
+[23-Oct-2020 12:19:02 Europe/London] PHP Notice:  Undefined variable: year in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 99
+[23-Oct-2020 12:19:02 Europe/London] PHP Notice:  Undefined variable: Pnb in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 101
+[23-Oct-2020 12:19:02 Europe/London] PHP Notice:  Undefined variable: worker_Full_Name in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 101
+[23-Oct-2020 12:19:02 Europe/London] PHP Notice:  Undefined variable: clntnm in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 101
+[23-Oct-2020 12:19:02 Europe/London] PHP Notice:  Undefined variable: clntph in /home4/cedarsla/public_html/expo/PRNT/V176/Classes/my1BIGFONT.php on line 101

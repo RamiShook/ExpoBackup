@@ -1,0 +1,131 @@
+[15-Sep-2020 04:19:14 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[15-Sep-2020 04:19:14 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 12
+[15-Sep-2020 04:19:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[16-Sep-2020 07:54:59 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[16-Sep-2020 07:57:04 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[17-Sep-2020 05:27:49 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[17-Sep-2020 05:28:36 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[17-Sep-2020 05:28:51 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[17-Sep-2020 05:29:09 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[17-Sep-2020 05:29:21 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[17-Sep-2020 05:31:32 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[17-Sep-2020 05:50:28 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[17-Sep-2020 06:31:30 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[18-Sep-2020 01:34:55 America/Boise] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home4/cedarsla/public_html/expo/Fulfillment/Fulfillment.php on line 212
+[18-Sep-2020 01:37:56 America/Boise] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home4/cedarsla/public_html/expo/Fulfillment/Fulfillment.php on line 212
+[18-Sep-2020 02:56:28 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[18-Sep-2020 02:56:51 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[18-Sep-2020 02:57:23 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[18-Sep-2020 02:57:44 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[22-Sep-2020 06:41:34 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[22-Sep-2020 06:41:34 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 12
+[22-Sep-2020 06:41:45 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[25-Sep-2020 03:25:33 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[25-Sep-2020 03:25:33 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 12
+[25-Sep-2020 03:25:38 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[25-Sep-2020 08:29:05 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[25-Sep-2020 08:29:05 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 12
+[25-Sep-2020 08:29:17 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[26-Sep-2020 05:27:38 America/Boise] PHP Parse error:  syntax error, unexpected '$PriceCalc' (T_VARIABLE), expecting ',' or ';' in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 228
+[26-Sep-2020 05:27:42 America/Boise] PHP Parse error:  syntax error, unexpected '$PriceCalc' (T_VARIABLE), expecting ',' or ';' in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 228
+[26-Sep-2020 05:27:50 America/Boise] PHP Parse error:  syntax error, unexpected '$PriceCalc' (T_VARIABLE), expecting ',' or ';' in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 228
+[26-Sep-2020 05:31:34 America/Boise] PHP Parse error:  syntax error, unexpected '")"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 228
+[26-Sep-2020 05:31:49 America/Boise] PHP Parse error:  syntax error, unexpected '")"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 228
+[26-Sep-2020 05:31:52 America/Boise] PHP Parse error:  syntax error, unexpected '")"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 228
+[26-Sep-2020 08:27:06 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[26-Sep-2020 08:27:06 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 12
+[26-Sep-2020 08:27:09 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[28-Sep-2020 03:52:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[28-Sep-2020 03:52:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 12
+[28-Sep-2020 03:52:32 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[28-Sep-2020 05:57:42 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[28-Sep-2020 05:57:49 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[28-Sep-2020 05:58:40 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[28-Sep-2020 06:00:41 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[29-Sep-2020 03:32:22 America/Boise] PHP Warning:  include(AdminOptions.php): failed to open stream: No such file or directory in /home4/cedarsla/public_html/expo/Fulfillment/PhotoEdit.php on line 91
+[29-Sep-2020 03:32:22 America/Boise] PHP Warning:  include(AdminOptions.php): failed to open stream: No such file or directory in /home4/cedarsla/public_html/expo/Fulfillment/PhotoEdit.php on line 91
+[29-Sep-2020 03:32:22 America/Boise] PHP Warning:  include(): Failed opening 'AdminOptions.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/cedarsla/public_html/expo/Fulfillment/PhotoEdit.php on line 91
+[30-Sep-2020 03:44:44 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[30-Sep-2020 03:45:33 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[30-Sep-2020 03:46:00 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[30-Sep-2020 04:27:59 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[02-Oct-2020 03:49:13 America/Boise] PHP Warning:  include(./config.php): failed to open stream: No such file or directory in /home4/cedarsla/public_html/expo/Fulfillment/SpecificClient.php on line 74
+[02-Oct-2020 03:49:13 America/Boise] PHP Warning:  include(./config.php): failed to open stream: No such file or directory in /home4/cedarsla/public_html/expo/Fulfillment/SpecificClient.php on line 74
+[02-Oct-2020 03:49:13 America/Boise] PHP Warning:  include(): Failed opening './config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/cedarsla/public_html/expo/Fulfillment/SpecificClient.php on line 74
+[02-Oct-2020 03:49:13 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cedarsla/public_html/expo/Fulfillment/SpecificClient.php on line 93
+[02-Oct-2020 05:51:13 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[02-Oct-2020 05:51:40 America/Boise] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[02-Oct-2020 07:21:57 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home4/cedarsla/public_html/expo/Fulfillment/instant.php:61
+Stack trace:
+#0 {main}
+  thrown in /home4/cedarsla/public_html/expo/Fulfillment/instant.php on line 61
+[02-Oct-2020 07:22:35 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home4/cedarsla/public_html/expo/Fulfillment/instant.php:62
+Stack trace:
+#0 {main}
+  thrown in /home4/cedarsla/public_html/expo/Fulfillment/instant.php on line 62
+[02-Oct-2020 07:22:39 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home4/cedarsla/public_html/expo/Fulfillment/instant.php:62
+Stack trace:
+#0 {main}
+  thrown in /home4/cedarsla/public_html/expo/Fulfillment/instant.php on line 62
+[02-Oct-2020 07:23:14 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home4/cedarsla/public_html/expo/Fulfillment/instant.php:62
+Stack trace:
+#0 {main}
+  thrown in /home4/cedarsla/public_html/expo/Fulfillment/instant.php on line 62
+[05-Oct-2020 17:31:43 Asia/Beirut] PHP Warning:  A non-numeric value encountered in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 113
+[05-Oct-2020 17:31:43 Asia/Beirut] PHP Warning:  A non-numeric value encountered in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 113
+[05-Oct-2020 17:31:43 Asia/Beirut] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php:113
+Stack trace:
+#0 {main}
+  thrown in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 113
+[05-Oct-2020 17:31:46 Asia/Beirut] PHP Warning:  A non-numeric value encountered in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 113
+[05-Oct-2020 17:31:46 Asia/Beirut] PHP Warning:  A non-numeric value encountered in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 113
+[05-Oct-2020 17:31:46 Asia/Beirut] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php:113
+Stack trace:
+#0 {main}
+  thrown in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 113
+[05-Oct-2020 17:32:20 Asia/Beirut] PHP Warning:  A non-numeric value encountered in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 113
+[05-Oct-2020 17:32:20 Asia/Beirut] PHP Warning:  A non-numeric value encountered in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 113
+[05-Oct-2020 17:32:20 Asia/Beirut] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php:113
+Stack trace:
+#0 {main}
+  thrown in /home4/cedarsla/public_html/expo/Fulfillment/FuAdminNC.php on line 113
+[07-Oct-2020 12:12:25 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[07-Oct-2020 12:12:25 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 12
+[07-Oct-2020 12:12:37 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[10-Oct-2020 17:03:30 Asia/Beirut] PHP Warning:  include(./config.php): failed to open stream: No such file or directory in /home4/cedarsla/public_html/expo/Fulfillment/Replacement.php on line 77
+[10-Oct-2020 17:03:30 Asia/Beirut] PHP Warning:  include(./config.php): failed to open stream: No such file or directory in /home4/cedarsla/public_html/expo/Fulfillment/Replacement.php on line 77
+[10-Oct-2020 17:03:30 Asia/Beirut] PHP Warning:  include(): Failed opening './config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/cedarsla/public_html/expo/Fulfillment/Replacement.php on line 77
+[10-Oct-2020 17:03:30 Asia/Beirut] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cedarsla/public_html/expo/Fulfillment/Replacement.php on line 79
+[13-Oct-2020 16:43:08 Asia/Beirut] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home4/cedarsla/public_html/expo/Fulfillment/Fulfillment.php on line 251
+[16-Oct-2020 13:57:26 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[16-Oct-2020 13:57:26 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 12
+[16-Oct-2020 13:57:35 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[16-Oct-2020 17:33:41 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[16-Oct-2020 17:33:41 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 12
+[16-Oct-2020 17:33:46 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[21-Oct-2020 12:34:02 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[21-Oct-2020 12:34:02 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 12
+[21-Oct-2020 12:34:15 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[22-Oct-2020 11:39:25 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[22-Oct-2020 11:39:43 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[22-Oct-2020 15:00:42 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[24-Oct-2020 14:18:28 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[24-Oct-2020 14:18:28 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 12
+[24-Oct-2020 14:18:36 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[29-Oct-2020 11:47:59 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[29-Oct-2020 11:47:59 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 12
+[29-Oct-2020 11:48:08 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[29-Oct-2020 11:49:17 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[29-Oct-2020 11:49:20 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[29-Oct-2020 11:49:21 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[02-Nov-2020 16:25:28 Asia/Beirut] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[02-Nov-2020 16:26:05 Asia/Beirut] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[02-Nov-2020 16:26:09 Asia/Beirut] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[02-Nov-2020 16:26:16 Asia/Beirut] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[02-Nov-2020 16:26:45 Asia/Beirut] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[02-Nov-2020 16:26:52 Asia/Beirut] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[02-Nov-2020 16:26:52 Asia/Beirut] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[02-Nov-2020 16:26:53 Asia/Beirut] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home4/cedarsla/public_html/expo/Fulfillment/ProductEdit.php on line 159
+[03-Nov-2020 11:19:07 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
+[03-Nov-2020 11:19:07 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 12
+[03-Nov-2020 11:19:14 Asia/Beirut] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cedarsla/public_html/expo/Fulfillment/index.php:5) in /home4/cedarsla/public_html/expo/Fulfillment/index.php on line 6
